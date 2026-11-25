@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:50:09 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mua Xe Cũ Nên Kiểm Tra Gì? Checklist Kiểm Tra Ô Tô Cũ</title>
+      <link>https://cardiy.vn/mua-xe-cu-nen-kiem-tra-gi/</link>
+      <description>Mua xe cũ nên kiểm tra gì? Cách xem checklist động cơ, hộp số, phanh, gầm, lốp, điện và điều hòa ra sao cho đúng trước khi chốt mua hoặc nhận ô tô.
+
+Đọc bài gốc: https://cardiy.vn/mua-xe-cu-nen-kiem-tra-gi/</description>
+      <guid isPermaLink="false">wp-826</guid>
+      <pubDate>Fri, 31 Jul 2026 03:50:09 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/826.mp3" length="3647921" type="audio/mpeg"/>
+      <itunes:duration>7:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Khi Nào Nên Thay Dầu Hộp Số Ô Tô? Các Dấu Hiệu Cần Kiểm Tra</title>
       <link>https://cardiy.vn/khi-nao-nen-thay-dau-hop-so-o-to/</link>
