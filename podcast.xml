@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:21:29 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa Mercedes tại Bình Dương chuyên nghiệp và giá tốt</title>
+      <link>https://cardiy.vn/sua-chua-o-to/mercedes/</link>
+      <description>CARDIY cung cấp dịch vụ sửa Mercedes tại Bình Dương với 10 hạng mục chuyên sâu, quy trình kiểm tra và bảng giá chi tiết
+
+Đọc bài gốc: https://cardiy.vn/sua-chua-o-to/mercedes/</description>
+      <guid isPermaLink="false">wp-1344</guid>
+      <pubDate>Thu, 29 Oct 2026 15:21:29 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1344.mp3" length="3663185" type="audio/mpeg"/>
+      <itunes:duration>7:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara sửa chữa xe BMW uy tín, chuyên sâu và giá tốt tại Bình Dương</title>
       <link>https://cardiy.vn/sua-chua-o-to/bmw/</link>
