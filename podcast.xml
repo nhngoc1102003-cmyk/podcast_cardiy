@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:24:34 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Xe ô tô bị rung lắc khi chạy: Nguyên nhân và cách khắc phục</title>
+      <link>https://cardiy.vn/xe-o-to-bi-rung-lac/</link>
+      <description>Xe ô tô bị rung lắc khi chạy do đâu? Tìm hiểu nguyên nhân rung vô lăng, rung thân xe, rung khi phanh hoặc tăng tốc và cách kiểm tra, khắc phục.
+
+Đọc bài gốc: https://cardiy.vn/xe-o-to-bi-rung-lac/</description>
+      <guid isPermaLink="false">wp-1059</guid>
+      <pubDate>Thu, 15 Oct 2026 09:24:34 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1059.mp3" length="4542157" type="audio/mpeg"/>
+      <itunes:duration>9:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Bạc đạn bánh xe ô tô bị hỏng: Dấu hiệu và chi phí thay</title>
       <link>https://cardiy.vn/bac-dan-banh-xe-o-to-bi-hong/</link>
