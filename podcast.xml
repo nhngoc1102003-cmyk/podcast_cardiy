@@ -11,7 +11,7 @@
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
     <image><url>https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg</url><title>CARDIY</title><link>https://cardiy.vn</link></image>
-    <itunes:category text="News"></itunes:category>
+    <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
@@ -24,6 +24,19 @@
       <pubDate>Tue, 26 May 2026 02:23:36 +0000</pubDate>
       <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/21.mp3" length="4903485" type="audio/mpeg"/>
       <itunes:duration>10:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dịch vụ sửa chữa động cơ ô tô chuyên sâu, giá tốt tại Bình Dương</title>
+      <link>https://cardiy.vn/sua-chua-o-to/dong-co/</link>
+      <description>CARDIY sửa chữa động cơ ô tô tại Bình Dương, kiểm tra nguyên nhân hư hỏng, tư vấn phương án xử lý, chi phí và quy trình phù hợp
+
+Đọc bài gốc: https://cardiy.vn/sua-chua-o-to/dong-co/</description>
+      <guid isPermaLink="false">wp-14</guid>
+      <pubDate>Tue, 26 May 2026 02:23:35 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/14.mp3" length="3199473" type="audio/mpeg"/>
+      <itunes:duration>6:40</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
