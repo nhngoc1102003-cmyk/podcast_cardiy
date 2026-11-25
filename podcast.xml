@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2026 04:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:25:50 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Địa chỉ thay má phanh ô tô chuyên nghiệp, giá tốt tại Bình Dương</title>
+      <link>https://cardiy.vn/sua-chua-o-to/thay-ma-phanh/</link>
+      <description>Cùng CARDIY xác định thời điểm cần thay má phanh ô tô, kiểm tra độ mòn, quy trình và báo giá chi tiết phụ tùng thay thế
+
+Đọc bài gốc: https://cardiy.vn/sua-chua-o-to/thay-ma-phanh/</description>
+      <guid isPermaLink="false">wp-1216</guid>
+      <pubDate>Thu, 29 Oct 2026 02:25:50 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1216.mp3" length="5026791" type="audio/mpeg"/>
+      <itunes:duration>10:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dịch vụ thay phuộc ô tô chính hãng, chi phí hợp lý tại Bình Dương</title>
       <link>https://cardiy.vn/sua-chua-o-to/thay-phuoc/</link>
