@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:50:46 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dịch vụ vệ sinh dàn lạnh ô tô chuyên nghiệp tại Bình Dương</title>
+      <link>https://cardiy.vn/bao-duong-o-to/ve-sinh-dan-lanh/</link>
+      <description>CARDIY cung cấp dịch vụ vệ sinh dàn lạnh ô tô tại Bình Dương, giúp loại bỏ bụi bẩn, mùi khó chịu và cải thiện hiệu quả làm mát của điều hòa.
+
+Đọc bài gốc: https://cardiy.vn/bao-duong-o-to/ve-sinh-dan-lanh/</description>
+      <guid isPermaLink="false">wp-1194</guid>
+      <pubDate>Wed, 28 Oct 2026 03:50:46 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1194.mp3" length="5195216" type="audio/mpeg"/>
+      <itunes:duration>10:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dịch vụ thay dầu hộp số tuần hoàn bằng máy chuyên dụng tại Bình Dương</title>
       <link>https://cardiy.vn/bao-duong-o-to/thay-dau-hop-so-tuan-hoan/</link>
