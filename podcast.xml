@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:57:03 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dịch vụ nạp gas điều hoà ô tô chuyên nghiệp tại Bình Dương</title>
+      <link>https://cardiy.vn/bao-duong-o-to/nap-gas-dieu-hoa/</link>
+      <description>Dịch vụ nạp gas điều hòa ô tô tại CARDIY giúp kiểm tra môi chất, phát hiện rò rỉ, bổ sung gas đúng chuẩn và duy trì khả năng làm mát ổn định.
+
+Đọc bài gốc: https://cardiy.vn/bao-duong-o-to/nap-gas-dieu-hoa/</description>
+      <guid isPermaLink="false">wp-1198</guid>
+      <pubDate>Wed, 28 Oct 2026 03:57:03 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1198.mp3" length="4532333" type="audio/mpeg"/>
+      <itunes:duration>9:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dịch vụ bảo dưỡng điều hòa ô tô uy tín và chuyên nghiệp tại Bình Dương</title>
       <link>https://cardiy.vn/bao-duong-o-to/dieu-hoa/</link>
