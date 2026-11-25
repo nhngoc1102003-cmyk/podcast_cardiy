@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Tue, 26 May 2026 02:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:58:58 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Xe ô tô bị rung giật khi tăng tốc: cần kiểm tra gì tại gara?</title>
+      <link>https://cardiy.vn/xe-o-to-bi-rung-giat-khi-tang-toc/</link>
+      <description>Xe ô tô bị rung giật khi tăng tốc có thể đến từ nhiều nguyên nhân khác nhau như động cơ, gầm hoặc hệ thống truyền động. Xem cách kiểm tra đúng lỗi trước khi sửa
+
+Đọc bài gốc: https://cardiy.vn/xe-o-to-bi-rung-giat-khi-tang-toc/</description>
+      <guid isPermaLink="false">wp-687</guid>
+      <pubDate>Thu, 18 Jun 2026 09:58:58 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/687.mp3" length="3156624" type="audio/mpeg"/>
+      <itunes:duration>6:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dịch vụ bảo dưỡng ô tô tại Bình Dương chuyên nghiệp, giá tốt</title>
       <link>https://cardiy.vn/bao-duong-o-to/</link>
