@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Sat, 31 Oct 2026 07:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:22:29 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Dịch vụ bảo dưỡng 10000km uy tín, chất lượng tại Bình Dương</title>
+      <link>https://cardiy.vn/bao-duong-o-to/10000km/</link>
+      <description>CARDIY cung cấp dịch vụ bảo dưỡng 10000km tại Bình Dương, tư vấn hạng mục kiểm tra, chi phí và quy trình thực hiện phù hợp với từng dòng xe.
+
+Đọc bài gốc: https://cardiy.vn/bao-duong-o-to/10000km/</description>
+      <guid isPermaLink="false">wp-1364</guid>
+      <pubDate>Mon, 02 Nov 2026 03:22:29 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1364.mp3" length="6143568" type="audio/mpeg"/>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara bảo dưỡng 5000km chi tiết, giá tốt tại Bình Dương</title>
       <link>https://cardiy.vn/bao-duong-o-to/5000km/</link>
