@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:44:54 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Phanh Ô Tô Kêu Két Két Là Bị Gì? Cần Thay Má Phanh Không?</title>
+      <link>https://cardiy.vn/phanh-o-to-keu-ket-ket/</link>
+      <description>Phanh ô tô kêu két két có thể do má phanh mòn, bụi bẩn, đĩa phanh hoặc chi tiết phanh bất thường. Xem khi nào cần thay má phanh và khi nào nên kiểm tra thêm.
+
+Đọc bài gốc: https://cardiy.vn/phanh-o-to-keu-ket-ket/</description>
+      <guid isPermaLink="false">wp-791</guid>
+      <pubDate>Wed, 15 Jul 2026 09:44:54 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/791.mp3" length="3407185" type="audio/mpeg"/>
+      <itunes:duration>7:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Hộp số ô tô bị giật khi sang số nguy hiểm không? khi nào nên sửa</title>
       <link>https://cardiy.vn/hop-so-o-to-bi-giat-khi-sang-so/</link>
