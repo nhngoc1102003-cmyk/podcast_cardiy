@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Fri, 31 Jul 2026 03:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:10:17 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Cần Chuẩn Bị Gì Trước Khi Mang Ô Tô Đi Sửa? Checklist Cho Chủ Xe</title>
+      <link>https://cardiy.vn/chuan-bi-gi-truoc-khi-mang-o-to-di-sua/</link>
+      <description>Cần chuẩn bị gì trước khi mang ô tô đi sửa? Hướng dẫn ghi lại biểu hiện, đèn cảnh báo, ảnh, video và lịch sử sửa chữa để gara kiểm tra chính xác hơn.
+
+Đọc bài gốc: https://cardiy.vn/chuan-bi-gi-truoc-khi-mang-o-to-di-sua/</description>
+      <guid isPermaLink="false">wp-833</guid>
+      <pubDate>Sat, 01 Aug 2026 08:10:17 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/833.mp3" length="4608414" type="audio/mpeg"/>
+      <itunes:duration>9:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mua Xe Cũ Nên Kiểm Tra Gì? Checklist Kiểm Tra Ô Tô Cũ</title>
       <link>https://cardiy.vn/mua-xe-cu-nen-kiem-tra-gi/</link>
