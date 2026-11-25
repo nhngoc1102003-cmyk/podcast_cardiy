@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Tue, 03 Nov 2026 04:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:58:50 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Gara sửa chữa xe Toyota chuyên nghiệp, uy tín tại Bình Dương</title>
+      <link>https://cardiy.vn/sua-chua-o-to/toyota/</link>
+      <description>CARDIY nhận sửa chữa xe Toyota với đa dạng hạng mục từ động cơ, hộp số, gầm, phanh đến điều hòa, đi kèm quy trình kiểm tra và tư vấn chi phí rõ ràng
+
+Đọc bài gốc: https://cardiy.vn/sua-chua-o-to/toyota/</description>
+      <guid isPermaLink="false">wp-1393</guid>
+      <pubDate>Wed, 04 Nov 2026 02:58:50 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/1393.mp3" length="8635860" type="audio/mpeg"/>
+      <itunes:duration>17:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gara bảo dưỡng ô tô 80000km chuyên sâu, nhanh chóng tại Bình Dương</title>
       <link>https://cardiy.vn/bao-duong-o-to/80000km/</link>
