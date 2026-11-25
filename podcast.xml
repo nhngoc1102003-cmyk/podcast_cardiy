@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Sat, 18 Jul 2026 07:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:46:00 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Khi Nào Nên Thay Dầu Hộp Số Ô Tô? Các Dấu Hiệu Cần Kiểm Tra</title>
+      <link>https://cardiy.vn/khi-nao-nen-thay-dau-hop-so-o-to/</link>
+      <description>Khi nào nên thay dầu hộp số ô tô phụ thuộc vào dòng xe, điều kiện vận hành và tình trạng dầu. Xem dấu hiệu cần kiểm tra và lưu ý an toàn trước khi thay.
+
+Đọc bài gốc: https://cardiy.vn/khi-nao-nen-thay-dau-hop-so-o-to/</description>
+      <guid isPermaLink="false">wp-818</guid>
+      <pubDate>Wed, 29 Jul 2026 08:46:00 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/818.mp3" length="3931728" type="audio/mpeg"/>
+      <itunes:duration>8:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vô Lăng Bị Nặng Là Lỗi Gì? Khi Nào Ô Tô Cần Kiểm Tra Lái?</title>
       <link>https://cardiy.vn/vo-lang-bi-nang/</link>
