@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Jul 2026 04:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:49:13 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Vô Lăng Bị Nặng Là Lỗi Gì? Khi Nào Ô Tô Cần Kiểm Tra Lái?</title>
+      <link>https://cardiy.vn/vo-lang-bi-nang/</link>
+      <description>Vô lăng bị nặng thì có thể ô tô đang bị lốp thiếu hơi, dầu trợ lực, bơm trợ lực, mô-tơ điện hoặc thước lái. Xem dấu hiệu cần kiểm tra hệ thống lái sớm.
+
+Đọc bài gốc: https://cardiy.vn/vo-lang-bi-nang/</description>
+      <guid isPermaLink="false">wp-806</guid>
+      <pubDate>Sat, 18 Jul 2026 07:49:13 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/806.mp3" length="3456713" type="audio/mpeg"/>
+      <itunes:duration>7:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Xe Báo Lỗi Động Cơ Có Nên Chạy Tiếp Không? Cách Làm Đúng</title>
       <link>https://cardiy.vn/xe-bao-loi-dong-co/</link>
