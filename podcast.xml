@@ -6,7 +6,7 @@
     <atom:link href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/podcast.xml" rel="self" type="application/rss+xml"/>
     <description>CARDIY là trung tâm dịch vụ ô tô tại Bình Dương chuyên cung cấp các giải pháp kiểm tra, sửa chữa và bảo dưỡng các dòng xe chuyên nghiệp. Gara cung cấp đa dạng dịch vụ như sửa chữa động cơ, hộp số, điều hòa, hệ thống điện, gầm, phanh và đồng sơn ô tô. Bên cạnh đó, CARDIY còn chia sẻ kiến thức chăm sóc xe, thông tin bảo dưỡng và giải pháp khắc phục các vấn đề kỹ thuật, giúp chủ xe duy trì khả năng vận hành ổn định và nâng cao tuổi thọ phương tiện.</description>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Aug 2026 04:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:13:55 +0000</lastBuildDate>
     <itunes:author>CARDIY</itunes:author>
     <itunes:owner><itunes:name>CARDIY</itunes:name><itunes:email>garagecardiy@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/cover.jpg"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Leisure"><itunes:category text="Automotive"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Xe Ô Tô Hao Xăng Bất Thường Nên Kiểm Tra Gì? 7 Hạng Mục Cần Xem</title>
+      <link>https://cardiy.vn/xe-o-to-hao-xang-bat-thuong/</link>
+      <description>Xe ô tô hao xăng bất thường có thể do lốp, lọc gió, bugi, kim phun, cảm biến hoặc thói quen sử dụng. Xem các hạng mục nên kiểm tra trước khi sửa tại gara.
+
+Đọc bài gốc: https://cardiy.vn/xe-o-to-hao-xang-bat-thuong/</description>
+      <guid isPermaLink="false">wp-850</guid>
+      <pubDate>Wed, 05 Aug 2026 03:13:55 +0000</pubDate>
+      <enclosure url="https://nhngoc1102003-cmyk.github.io/podcast_cardiy/audio/850.mp3" length="4351576" type="audio/mpeg"/>
+      <itunes:duration>9:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Xe Ô Tô Khó Nổ Buổi Sáng Là Lỗi Gì? Nguyên Nhân Và Cách Kiểm Tra</title>
       <link>https://cardiy.vn/xe-o-to-kho-no-buoi-sang-la-loi-gi/</link>
